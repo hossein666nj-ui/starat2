@@ -1,0 +1,9 @@
+{
+  "name": "ui-metrics-collector",
+  "version": "2.1.4",
+  "description": "Internal API endpoint for aggregating UI performance metrics",
+  "private": true,
+  "type": "module",
+  "author": "frontend-team",
+  "license": "ISC"
+}
